@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f5c27d5-fb75-4d6f-bca7-e737d2ce8897" name="Default Changelist" comment="" />
+    <list default="true" id="6f5c27d5-fb75-4d6f-bca7-e737d2ce8897" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/enfold/config-woocommerce/images/remove.png" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/enfold/config-woocommerce/images/remove.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/dynamic_avia/enfold.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/uploads/dynamic_avia/enfold.css" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +23,12 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="php" value="3" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="Image" value="1" />
           <entry key="PHP" value="3" />
         </counts>
       </usages-collector>
@@ -40,13 +46,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/enfold/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="306" column="2" lean-forward="true" selection-start-line="306" selection-start-column="2" selection-end-line="306" selection-end-column="2" />
+            <state relative-caret-position="285">
+              <caret line="306" column="2" selection-start-line="306" selection-start-column="2" selection-end-line="306" selection-end-column="2" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/enfold/config-woocommerce/images/remove.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -69,6 +80,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -89,12 +103,13 @@
       <path value="$PROJECT_DIR$/wp-content/plugins/mailchimp-for-woocommerce/includes/vendor/action-scheduler/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-13" />
-    <option name="y" value="60" />
-    <option name="width" value="1693" />
-    <option name="height" value="810" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="269" />
+    <option name="y" value="241" />
+    <option name="width" value="1406" />
+    <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -132,7 +147,7 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="enfold" type="462c0819:PsiDirectoryNode" />
-              <item name="config-templatebuilder" type="462c0819:PsiDirectoryNode" />
+              <item name="config-woocommerce" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cruise_club" type="b2602c69:ProjectViewProjectNode" />
@@ -140,8 +155,8 @@
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="enfold" type="462c0819:PsiDirectoryNode" />
-              <item name="config-templatebuilder" type="462c0819:PsiDirectoryNode" />
-              <item name="avia-template-builder" type="462c0819:PsiDirectoryNode" />
+              <item name="config-woocommerce" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,24 +191,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600695311114</updated>
-      <workItem from="1600695313623" duration="4540000" />
+      <workItem from="1600695313623" duration="6809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4540000" />
+    <option name="totallyTimeSpent" value="6809000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-13" y="141" width="1693" height="810" extended-state="0" />
+    <frame x="269" y="241" width="1406" height="800" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17201696" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20821114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Tinkerwell" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -232,10 +247,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/enfold/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="306" column="2" lean-forward="true" selection-start-line="306" selection-start-column="2" selection-end-line="306" selection-end-column="2" />
+        <state relative-caret-position="285">
+          <caret line="306" column="2" selection-start-line="306" selection-start-column="2" selection-end-line="306" selection-end-column="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/enfold/config-woocommerce/images/remove.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
