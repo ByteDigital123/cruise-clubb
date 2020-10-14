@@ -11,6 +11,21 @@ body.open_sans {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Hel
     background-repeat: no-repeat;
 }
 
+.html_cart_at_menu.html_header_top #top .main_menu {
+    right: -30px;
+}
+
+ul#menu-item-shop {
+    border: none;
+    text-align: right;
+}
+
+#socket .copyright {
+    float: none;
+}
+
+
+
 .inner_product {
     border-style: solid;
     border-width: 2px;
@@ -98,9 +113,9 @@ ul.sub-menu a:hover {
     color: #caff2c!important;
 }
 
-
 .logo img {
-    margin-top: 20px;
+    margin-top: 27px;
+    width: 70%;
 }
 
 a:hover {
@@ -143,10 +158,22 @@ a:hover {
     border-top-width: 2px!important;
 }
 
+#top #searchsubmit, .ajax_load {
+    color: #000;
+}
+
+#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before {
+    font-family: 'entypo-fontello';
+    color: #000;
+}
+
 
 * {
     background-color: transparent!important;
-    font-family: 'DM Sans', sans-serif!important;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, ul, li, button, textarea {
+      font-family: 'DM Sans', sans-serif!important;
 }
 
 #wpadminbar {
@@ -228,6 +255,26 @@ a:hover, button:hover, span:hover {
     color: #caff2c!important;
  border-color:  #caff2c!important;
 }
+
+.header_color .avia-tt {
+    background-color: #fff!important;
+}
+
+div a.remove {
+    border: none!important;
+}
+
+img {
+    padding: 20px;
+}
+
+.avia-section.av-minimum-height .container .content {
+    display: table-cell;
+    vertical-align: top!important;
+    height: 100%;
+    float: none !important;
+}
+
 
 @media only screen and (max-width: 989px) and (min-width: 768px){
 

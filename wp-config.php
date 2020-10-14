@@ -20,16 +20,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'cruise_club' );
+define( 'DB_NAME', 'kumodnb' );
 
 /** MySQL database username */
-define( 'DB_USER', 'homestead' );
+define( 'DB_USER', 'forge' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'secret' );
+define( 'DB_PASSWORD', '8qP4tOFkxHvuBKkvbhT8' );
 
 /** MySQL hostname */
-define( 'DB_HOST', '192.168.10.10' );
+define( 'DB_HOST', '64.227.41.194' );
 
 /** Database Charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
