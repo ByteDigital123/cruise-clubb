@@ -115,7 +115,7 @@ ul.sub-menu a:hover {
 
 .logo img {
     margin-top: 27px;
-    width: 70%;
+    width: 25%;
 }
 
 a:hover {
@@ -273,6 +273,10 @@ img {
     vertical-align: top!important;
     height: 100%;
     float: none !important;
+}
+
+h1 { 
+font-family: "CooperHewitt-Book", sans-serif!important
 }
 
 
