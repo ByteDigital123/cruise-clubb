@@ -1425,9 +1425,9 @@ if( ! function_exists( 'avia_woocommerce_frontend_search_params' ) )
 			return;
 		}
 
-		$product_order['default'] = __( 'Default', 'avia_framework' );
+		$product_order['default'] = __( 'All', 'avia_framework' );
 		$product_order['menu_order'] = __( 'Custom', 'avia_framework' );
-		$product_order['title'] = __( 'Name', 'avia_framework' );
+		$product_order['title'] = __( 'A-Z', 'avia_framework' );
 		$product_order['price'] = __( 'Price', 'avia_framework' );
 		$product_order['date'] = __( 'Date', 'avia_framework' );
 		$product_order['popularity'] = __( 'Popularity (sales)', 'avia_framework' );

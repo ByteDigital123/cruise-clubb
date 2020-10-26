@@ -11,6 +11,23 @@ body.open_sans {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Hel
     background-repeat: no-repeat;
 }
 
+.main_color tr:nth-child(even) {
+     color: #000;
+}
+
+textarea::placeholder {
+    text-transform: uppercase;
+    font-weight: bold!important;
+    font-size: 0.92em!important;
+    color: #000!important;
+}
+
+#top .alternate_color.title_container .main-title, #top .alternate_color.title_container .main-title a {
+    color: #caff2c;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
 .html_cart_at_menu.html_header_top #top .main_menu {
     right: -30px;
 }
@@ -18,6 +35,46 @@ body.open_sans {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Hel
 ul#menu-item-shop {
     border: none;
     text-align: right;
+}
+
+main.template-shop.content {
+    padding-top: 10px;
+}
+
+.select2-container--default .select2-selection--single {
+    border: 2px solid #222;
+    border-radius: 0px;
+    padding-top: 6px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 22px;
+}
+
+#top .select2-results {
+    color: #000;
+}
+
+span.select2-search.select2-search--dropdown {
+    display:none!important;
+}
+
+.select2-dropdown {
+    background-color: #fff!important;
+    border: 1px solid #000!important;
+    border-radius: 0px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #000;
+}
+
+.select2-container .select2-selection--single {
+    height: 35px!important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 32px;
 }
 
 #socket .copyright {
@@ -155,7 +212,14 @@ a:hover {
 }
 
 .container_wrap {
-    border-top-width: 2px!important;
+    border-top-width: none!important;
+}
+
+.container_wrap {
+    clear: both;
+    position: relative;
+    border-top-style: none!important;
+    border-top-width: none!important;
 }
 
 #top #searchsubmit, .ajax_load {
@@ -251,9 +315,13 @@ input#coupon_code {
     background-color: #000000!important;
 }
 
-a:hover, button:hover, span:hover {
+a:hover, button:hover, .select2-results__option:hover {
     color: #caff2c!important;
  border-color:  #caff2c!important;
+}
+
+.woocommerce-checkout input[type='text']::placeholder {
+    color: #fff!important;
 }
 
 .header_color .avia-tt {
