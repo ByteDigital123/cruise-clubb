@@ -11,8 +11,39 @@ body.open_sans {font-family:'open sans', 'HelveticaNeue', 'Helvetica Neue', 'Hel
     background-repeat: no-repeat;
 }
 
+.bloglist-excerpt .read-more-link:after {
+      top: 56%;
+      width: 50%;
+}
+
+.bloglist-excerpt .read-more-link {
+    margin-top: 0px;
+}
+
+#order_comments_field textarea::placeholder {
+    color: #fff!important;
+}
+
+.coupon input::placeholder {
+    color:#fff;
+}
+
 .main_color tr:nth-child(even) {
      color: #000;
+}
+
+#top .fullsize .template-blog .post .entry-content-wrapper {
+    background-color: rgba(000,000,000,0.8)!important;
+    padding-left: 15px;
+    margin-bottom: 20px;
+}
+
+.bloglist-simple .more-link {
+     background: #fff!important;
+}
+
+.entry-title a {
+    color: #fff!important;
 }
 
 textarea::placeholder {
